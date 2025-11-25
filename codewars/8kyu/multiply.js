@@ -4,4 +4,4 @@ function multiply(a, b) {
     return a * b;
 }
 
-console.log(multiply(8, 2));
+multiply(8, 2);
