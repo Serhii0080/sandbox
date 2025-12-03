@@ -1,3 +1,3 @@
 # Codewars 
 
-[![Codwears badge](https://www.codewars.com/users/serhiiZhuk/badges/large)
+![Codwears badge](https://www.codewars.com/users/serhiiZhuk/badges/large)
